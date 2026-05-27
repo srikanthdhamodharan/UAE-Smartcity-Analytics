@@ -1,3 +1,5 @@
+## Live Demo
+https://uae-smartcity-analytics.streamlit.app
 # 🇦🇪 UAE Smart City Analytics Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
